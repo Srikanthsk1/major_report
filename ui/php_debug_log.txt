@@ -1,0 +1,21 @@
+FROM: 2024-12-12, TO: 2025-04-11
+CMD: python3 model.py "2024-12-12" "2025-04-11" 2>&1
+PYTHON OUTPUT:
+
+
+FROM: 2024-12-12, TO: 2025-04-11
+CMD: python3 model.py "2024-12-12" "2025-04-11" 2>&1
+PYTHON OUTPUT:
+
+
+FROM: 2024-12-12, TO: 2025-04-11
+CMD: python model.py "2024-12-12" "2025-04-11" 2>&1
+PYTHON OUTPUT:
+
+
+FROM: 2024-12-12, TO: 2025-04-11
+CMD: /usr/bin/python3 /path/to/your/model.py "2024-12-12" "2025-04-11" 2>&1
+PYTHON OUTPUT:
+The system cannot find the path specified.
+
+
